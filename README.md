@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on To-Do-List with Rust
+- 🔭 I’m currently working on Stock Price Analysis with Rust
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with AI/ML roadmap
 - 😄 Pronouns: He/Him
