@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on Stock Price Analysis with Rust
-- 🌱 I’m currently learning Rust
-- 🤔 I’m looking for help with AI/ML roadmap
+- 🔭 I’m currently working on Deep Learning Projects
+- 🌱 I’m currently learning about NLP
+- 🤔 I’m looking for help with Reinforcement Learning/GenAI roadmap
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar and love to travel
 <!--
